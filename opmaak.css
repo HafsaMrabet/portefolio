@@ -1,0 +1,85 @@
+h1{
+	  text-align: center;
+	  font-family:"Comic Sans MS", cursive, sans-serif;
+    text-shadow: 0 0 6px white;
+		color: #192438;
+
+
+
+}
+
+
+body{
+background: url("https://artwalls.com.ua/image/catalog/nature/na-20_o.jpg");
+    background-repeat: repeat;
+    background-size: 1380px 700px;
+		background-color: black;
+		text-align: center;
+    margin: 20px;
+
+}
+
+ #titel{
+  text-align: center;
+
+}
+
+nav{
+	position: sticky;
+	top:8%;
+	height 0%;
+}
+
+
+.menu a {
+	text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-family:"Comic Sans MS", cursive, sans-serif;
+  font-size: 19px;
+  text-shadow: 0 0 15px black;
+	color:#4542f4;
+	margin-top: 150px;
+
+
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+    background-repeat: no-repeat;
+		background-size: 1380px 700px;
+
+}
+
+h4{
+	color: #004bc4;
+  margin: 60px;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #187061;
+}
+
+.active {
+    background: #28364f;
+}
+h2{
+	color:black;
+	text-align: center;
+	font-family:"Comic Sans MS", cursive, sans-serif;
+}
